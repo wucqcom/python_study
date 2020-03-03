@@ -1,1 +1,9 @@
+"""
+2020.3.3    szlw 
+tcp_server
+"""
 
+import socket
+
+s=socket()
+s.bind()
